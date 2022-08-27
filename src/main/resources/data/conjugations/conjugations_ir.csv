@@ -1,7 +1,7 @@
-﻿imperfect,present,future,
-ais,is,ai,
-ais,is,as,
-ait,it,a,
-ions,issons,ons,
-iez,issez,ez,
-aient,issent,ont,
+subject,imperfect,present,future,past
+je,ais,is,ai,s
+tu,ais,is,as,s
+il/elle,ait,it,a,t
+nous,ions,issons,ons,mes
+vous,iez,issez,ez,tes
+ils/elles,aient,issent,ont,rent
